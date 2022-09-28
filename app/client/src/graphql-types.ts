@@ -839,7 +839,6 @@ export type QueryValidateInviteArgs = {
   input: ValidateInvite;
 };
 
-
 export type QueryValidatePasswordResetTokenArgs = {
   input: ValidatePasswordResetTokenForm;
 };
